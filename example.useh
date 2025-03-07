@@ -1,0 +1,4 @@
+MACR STDIO #include <stdio.h>
+MACR MAIN int main(){
+FUNC PRINT printf(%);
+MACR END return 0;}
